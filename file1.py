@@ -1,1 +1,1 @@
-print("Hello World! ----- Version ---v5-frontend");
+print("Hello World! ----- Version ---v6-frontend");
