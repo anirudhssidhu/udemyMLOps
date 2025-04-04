@@ -1,0 +1,36 @@
+# hey this is a  yaml file
+my-course: "AWS DevOps Certification"
+version: 1.0
+price: 299
+is_public: true
+release_date: 2022-01-10 # yyyy-mm-dd
+pre_enroll: null
+category:
+ - AWS
+ - DevOps
+ - AWS Certification
+
+course_dev: ["murthy", "kavya", "nirvan",]
+
+dev_details:
+ - name: "murthy"
+   email: "support@manifoldailearning.com"
+   role: "author"
+ - name: "kavya"
+   email: "support@manifoldailearning.com"
+   role: "co-author"
+ - name: "nirvan"
+   email: "support@manifoldailearning.com"
+   role: "technical support"
+ - {name: "naviskha", email: "support@manifoldailearning.com", role: "financial support",}
+
+short_description: >
+ This is a course for 
+ AWS DevOps Professional
+ Certification
+
+detailed_description: |
+ This course will provide you
+ with a comprehensive understanding of AWS and its ecosystem,
+ and help you build and maintain applicatons of AWS and 
+ DevOps best practices.
